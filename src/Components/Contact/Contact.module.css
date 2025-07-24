@@ -1,0 +1,25 @@
+.contact {
+    padding: 6rem 0;
+}
+
+.title {
+    font-size: 2.25rem;
+    line-height: 2rem;
+    color: #2c3e50 !important;
+}
+
+.input {
+    border: none !important;
+    border-bottom: 1px solid #ced4da !important;
+    border-radius: 10 !important;
+    box-shadow: none !important;
+}
+
+
+.submit_btn {
+    background-color: rgb(26, 188, 156) !important;
+    color: white !important;
+    /* border-radius: 10px !important; */
+   
+}
+
