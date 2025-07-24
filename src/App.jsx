@@ -17,7 +17,7 @@ const router = createBrowserRouter([
             { path: '*', element: <NotFound /> },
         ],
     },
-], { basename: import.meta.env.MODE === 'production' ? "/Route-Projects/Start-Framework/" : "/" });
+], { basename: import.meta.env.MODE === 'production' ? "/Start-Framework/" : "/" });
 
 export default function App() {
     return <RouterProvider router={router} />;
